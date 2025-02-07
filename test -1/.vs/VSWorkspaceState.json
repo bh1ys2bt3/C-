@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\test -1",
+    "\\test -1\\Debug",
+    "\\test -1\\Debug\\test -1.tlog"
   ],
-  "SelectedNode": "\\test -1.sln",
+  "SelectedNode": "\\test(1).cpp",
   "PreviewInSolutionExplorer": false
 }
